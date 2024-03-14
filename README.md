@@ -13,4 +13,3 @@ Ability to input a donation, rejecting donors that have donated more than three 
 Ability to view the total monthly donations to each organisation, including the names of the donors and the total amount of donations to each charity organisation.
 
 Ability to export a thank you letter to send to donors.
-
